@@ -1,5 +1,5 @@
 # conflict-resolution
 
-## This is a heading
+## Just put some other words
 
-This text was added locally on my computer
+These changes were made on GitHub.
